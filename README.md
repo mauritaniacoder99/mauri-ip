@@ -22,10 +22,10 @@ Installation
 Clone the repository:
 
 
-git clone 
-cd 
+git clone https://github.com/mauritaniacoder99/mauri-ip.git
+cd mauri-ip
 
-python script_name.py -v 8.8.8.8
+python3 mauriip.py -v ip-target
 
 Output
 
